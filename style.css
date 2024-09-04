@@ -1,0 +1,15 @@
+.nav-tabs .nav-link {
+    color: white; 
+    background-color: #1F2326;
+  }
+
+  .nav-tabs .nav-link:hover,
+  .nav-tabs .nav-link:focus {
+    color: white; 
+    background-color: #1F2326;
+  }
+
+  .nav-tabs .nav-link.active {
+    color: white;
+    background-color: #1F2326;
+  }
