@@ -1,15 +1,12 @@
-.nav-tabs .nav-link {
-    color: white; 
-    background-color: #1F2326;
+.carousel-caption {
+    position: static;
+    margin-top: 15px;
+    text-align: center;
   }
-
-  .nav-tabs .nav-link:hover,
-  .nav-tabs .nav-link:focus {
-    color: white; 
-    background-color: #1F2326;
+  
+  .carousel-item img {
+    width: 100%;
+    height: auto;
   }
-
-  .nav-tabs .nav-link.active {
-    color: white;
-    background-color: #1F2326;
-  }
+  
+  
