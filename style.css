@@ -1,0 +1,16 @@
+form {
+    padding: 5px;
+    border-radius: 5px;
+}
+
+form label {
+    font-weight: bolder;
+}
+
+form textarea {
+    resize: none;
+}
+
+.modal.title{
+    font-weight: bolder;
+}
